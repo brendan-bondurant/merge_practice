@@ -1,0 +1,14 @@
+mode: set
+merge_meeting/merge_meeting.go:9.46,11.43 1 1
+merge_meeting/merge_meeting.go:11.43,12.39 1 1
+merge_meeting/merge_meeting.go:12.39,14.4 1 0
+merge_meeting/merge_meeting.go:15.3,15.41 1 1
+merge_meeting/merge_meeting.go:19.2,22.46 2 1
+merge_meeting/merge_meeting.go:22.46,26.48 2 1
+merge_meeting/merge_meeting.go:26.48,28.4 1 1
+merge_meeting/merge_meeting.go:28.9,31.4 1 1
+merge_meeting/merge_meeting.go:34.2,34.23 1 1
+merge_meeting/merge_meeting.go:38.24,39.11 1 1
+merge_meeting/merge_meeting.go:39.11,41.3 1 0
+merge_meeting/merge_meeting.go:42.2,42.10 1 1
+merge_meeting/merge_meeting.go:45.13,50.2 3 0
